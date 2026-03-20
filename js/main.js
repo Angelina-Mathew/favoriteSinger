@@ -1,4 +1,4 @@
-// the list of my favorite singers stored as an object with name, song, genre, born, and hometown
+// the list of my favorite singers stored as an JSON object with name, song, genre, born, and hometown
 const singers = [{
         name: "Taylor Swift",
         song: "Cruel Summer",
