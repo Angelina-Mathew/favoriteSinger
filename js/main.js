@@ -4,7 +4,7 @@ const singers = [{
         song: "Cruel Summer",
         genre: "Pop",
         born: "December 13, 1989",
-        hometown: "Reading, Pennsylvania",
+        hometown: "Reading, Pennsylvania, USA",
         awards: "11 Grammy Awards, 34 Billboard Music Awards"
     },
     {
@@ -36,7 +36,7 @@ const singers = [{
         song: "Espresso",
         genre: "Pop",
         born: "May 11, 1999",
-        hometown: "Lehigh Valley, Pennsylvania",
+        hometown: "Lehigh Valley, Pennsylvania, USA",
         awards: "Teen Choice Awards, Radio Disney Music Awards"
     },
     {
